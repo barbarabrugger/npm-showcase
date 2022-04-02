@@ -1,13 +1,26 @@
 {
-    "extends": "es/node",
-    "rules": {
-        "indent": ["error", 4],
-        "linebreak-style": ["error", "unix"],
-        "quotes": ["error", "double"],
-        "semi": ["error", "always"]
-     },
-     "ignorePatterns": [
-        "node_modules/",
-        "dist/"
-     ]
+   "extends": "es/node",
+   "rules": {
+      "indent": [
+         "error",
+         4
+      ],
+      "linebreak-style": [
+         "error",
+         "unix"
+      ],
+      "quotes": [
+         "error",
+         "double"
+      ],
+      "semi": [
+         "error",
+         "always"
+      ]
+   },
+   "ignorePatterns": [
+      "node_modules/",
+      "dist/",
+      "tests/"
+   ]
 }
