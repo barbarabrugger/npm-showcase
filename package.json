@@ -1,0 +1,41 @@
+{
+  "name": "bpaas-plugin-evaluator",
+  "version": "0.0.1",
+  "description": "Evaluate plugins for our future JS/TS projects.",
+  "contributors": [
+    {
+      "name": "Barbara Brugger",
+      "email": "barbara.brugger@qualiflex.solutions",
+      "url": "https://bpaas.ch"
+    }
+  ],
+  "private": true,
+  "main": "src/index.ts",
+  "types": "",
+  "dependencies": {
+    "eslint": "8.12.0",
+    "flaschenpost": "5.1.1",
+    "roboter": "13.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.23",
+    "nodemon": "2.0.15",
+    "ts-node": "10.7.0",
+    "typescript": "4.6.3"
+  },
+  "scripts": {
+    "bot": "roboter",
+    "build": "roboter build",
+    "deps": "roboter deps",
+    "lic": "roboter license",
+    "lint": "./node_modules/.bin/eslint src/** --fix",
+    "start": "nodemon src/index.ts",
+    "test": "roboter test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [],
+  "license": "MIT"
+}

@@ -1,0 +1,27 @@
+{
+    "extends": "@tsconfig/node16/tsconfig.json",
+    "compilerOptions": {
+        "target": "es2021",
+        "rootDir": "src",
+        "outDir": "dist"
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "watch": true,
+    "resolve": {
+        "extensions": [
+            ".ts",
+            ".js"
+        ]
+    },
+    "resolveLoader": {
+        "extensions": [
+            ".ts",
+            ".js"
+        ]
+    }
+}
