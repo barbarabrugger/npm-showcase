@@ -2,6 +2,13 @@
 
 Showcase for QFS relevant topics around Node.js/npm/JavaScript/TypeScript...
 
+## Getting started
+
+```console
+npm i
+npm run start
+```
+
 ## Initialisation
 
 ```console
@@ -26,6 +33,10 @@ npm i buntstift
 Linter for JS/TS. There are multiple ways to configure ESLint (see [Configuring ESLint](https://eslint.org/docs/user-guide/configuring/))
 
 [**ESLint**](https://eslint.org) Website
+
+```console
+npm i -g eslint
+```
 
 ### flaschenpost
 

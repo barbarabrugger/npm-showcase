@@ -28,7 +28,7 @@
     "build": "roboter build",
     "deps": "roboter deps",
     "lic": "roboter license",
-    "lint": "./node_modules/.bin/eslint src/** --fix",
+    "lint": "eslint src/** --fix",
     "start": "nodemon src/index.ts",
     "test": "roboter test"
   },
