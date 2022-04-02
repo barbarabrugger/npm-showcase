@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "temitope1909.dotenv-intellisense",
+        "redhat.fabric8-analytics",
+        "dbaeumer.vscode-eslint",
+        "github.copilot",
+        "breadnaught.vscode-ignore",
+        "hbenl.vscode-test-explorer",
+        "davidanson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "ms-vsliveshare.vsliveshare",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
+        "darkriszty.markdown-table-prettify",
+        "codezombiech.gitignore",
+        "bierner.github-markdown-preview",
+        "visualstudioexptteam.vscodeintellicode",
+        "github.remotehub",
+        "ms-vscode-remote.remote-wsl",
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker"
+    ]
+}
