@@ -20,7 +20,7 @@ Dendron provides a VS Code extension. After the installation, a tutorial is prov
 
 ## Dendron CLI
 
-`npm install @dendronhq/dendron-cli@latest`
+`npm install @dendronhq/dendron-cli@latest -g`
 
 ## Migrate from OneNote to Dendron
 
