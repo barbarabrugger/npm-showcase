@@ -16,6 +16,8 @@ Great text from Golo Roden (CEO of the native web) about documentation in genera
 
 [Use Git and Markdown to Store Your Team’s Documentation and Decisions](https://xebia.com/use-git-and-markdown-to-store-your-teams-documentation-and-decisions/)
 
+[It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb/)
+
 ## Markdown
 
 > Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text - [markdownguide.org](https://www.markdownguide.org/getting-started/)
