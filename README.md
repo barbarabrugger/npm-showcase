@@ -21,8 +21,8 @@ Other topics to be covered:
 - The whole UI topic (React, ...)
 - ...
 
-Dependencies used in this project are documented in [tech-dependencies](docs/tech-dependencies.md).
+Dependencies used in this project are documented in [dependencies](docs/tech-dependencies.md).
 
 ## Documentation
 
-There are some thoughts and documentation to various topics in the /docs subfolder. I recommend to start at [Mindset](/docs/vault/mindset.md) and then move on to the other topics.
+There are some thoughts and documentation to various topics in the /docs subfolder. I recommend to start at [Mindset](mindset.md) and then move on to the other topics.
