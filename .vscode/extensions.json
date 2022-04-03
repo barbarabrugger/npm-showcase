@@ -21,6 +21,7 @@
         "github.remotehub",
         "ms-vscode-remote.remote-wsl",
         "ms-vscode-remote.remote-containers",
-        "ms-azuretools.vscode-docker"
+        "ms-azuretools.vscode-docker",
+        "TabNine.tabnine-vscode"
     ]
 }

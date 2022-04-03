@@ -1,22 +1,19 @@
-import { buntstift } from "buntstift";
-import { flaschenpost } from "flaschenpost";
+import cors from "cors";
+import express from "express";
+import helmet from "helmet";
 
-const logger = flaschenpost.getLogger();
+import writeLogSample from "./loggingSample";
 
-buntstift.header("Buntstift HEADER", { prefix: "🔥" });
-buntstift.success("Buntstift SUCCESS", { prefix: "👍" });
-buntstift.info("Buntstift INFO", { prefix: "❤️ " });
-buntstift.warn("Buntstift WARN", { prefix: "⚡" });
-buntstift.error("Buntstift ERROR", { prefix: "💩" });
+writeLogSample();
 
-buntstift.line();
-buntstift.list("foo");
-buntstift.list("bar");
-buntstift.list("baz", { level: 1 });
-buntstift.line();
+const app = express();
 
-logger.debug("Debug message", { prefix: "🍔" });
-logger.info("Info message");
-logger.warn("Warning message");
-logger.error("Error message");
-logger.fatal("Fatal message");
+app.use(helmet());
+app.use(cors());
+
+app.get("/", (req, res): void => {
+  res.send("Hello World");
+});
+
+app.listen(3_000);
+

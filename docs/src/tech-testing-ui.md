@@ -1,4 +1,4 @@
-# Playwright
+# UI Testing
 
 [Playwright](https://playwright.dev/)
 
