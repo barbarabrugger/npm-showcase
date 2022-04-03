@@ -8,6 +8,8 @@ stub: false
 isDir: false
 ---
 
+# Documentation
+
 Great text from Golo Roden (CEO of the native web) about documentation in general and how to handle it in Node.js projects specifically:
 
 [Dokumentation schreiben in 30 Minuten (Golo Roden)](https://www.heise.de/developer/artikel/Dokumentation-schreiben-in-30-Minuten-3552720.html)

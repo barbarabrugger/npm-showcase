@@ -68,7 +68,7 @@ preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableFrontmatterTags: true
-    enableHashesForFMTags: false
+    enableHashesForFMTags: true
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
@@ -82,8 +82,8 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
-    writeStubs: false
-    siteRootDir: /docs/vault/
+    writeStubs: true
+    siteRootDir: docs/vault/
     assetsPrefix: /npm-showcase
     siteUrl: https://barbarabrugger.github.io
     seo:

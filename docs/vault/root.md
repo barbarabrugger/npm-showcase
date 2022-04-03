@@ -1,6 +1,6 @@
 ---
 id: dn5yuyizl3hl16uo79hy9iu
-title: Welcome to Dendron
+title: root
 desc: ''
 updated: 1649013148426
 created: 1649013148427

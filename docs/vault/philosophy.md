@@ -1,6 +1,6 @@
 ---
 id: s7r5toket5wn0jnh2wzgw4p
-title: Mindset
+title: Philosophy
 desc: ''
 updated: 1649013206672
 created: 1649013206672
