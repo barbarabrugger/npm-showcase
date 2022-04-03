@@ -1,5 +1,12 @@
-# Start Here
-
+---
+id: s7r5toket5wn0jnh2wzgw4p
+title: Mindset
+desc: ''
+updated: 1649013206672
+created: 1649013206672
+stub: false
+isDir: false
+---
 ## Quality and Flexibility (and Solutions)
 
 How can we keep the promise in our company name?

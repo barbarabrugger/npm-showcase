@@ -1,5 +1,12 @@
-# Document generators
-
+---
+id: b4drwr4hfs9ytykrhwbw6x5
+title: Document Generators
+desc: ''
+updated: 1649013206674
+created: 1649013206674
+stub: false
+isDir: false
+---
 - [ ] We need to evaluate a document generator for our projects.
 
 ## docxtemplater

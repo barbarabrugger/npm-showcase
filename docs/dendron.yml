@@ -20,7 +20,9 @@ commands:
         enableMarker: false
     copyNoteLink: {}
 workspace:
-    vaults: []
+    vaults:
+        -
+            fsPath: vault
     journal:
         dailyDomain: daily
         name: journal
@@ -82,6 +84,8 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
+    assetsPrefix: /npm-showcase
+    siteUrl: https://barbarabrugger.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
@@ -95,3 +99,7 @@ publishing:
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
     enablePrettyLinks: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault

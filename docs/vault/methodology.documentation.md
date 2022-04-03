@@ -1,4 +1,12 @@
-# Documentation
+---
+id: b9my5e9o14b32u34iyy96c9
+title: Documentation
+desc: ''
+updated: 1649013206663
+created: 1649013206663
+stub: false
+isDir: false
+---
 
 Great text from Golo Roden (CEO of the native web) about documentation in general and how to handle it in Node.js projects specifically:
 
@@ -11,6 +19,10 @@ Great text from Golo Roden (CEO of the native web) about documentation in genera
 > Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text - [markdownguide.org](https://www.markdownguide.org/getting-started/)
 
 **[Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)**
+
+## Dendron
+
+see [[tools.dendron]]
 
 ## AsciiDoc
 

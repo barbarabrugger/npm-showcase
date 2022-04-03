@@ -1,5 +1,12 @@
-# NPM Project structure
-
+---
+id: ntjkhf453fxlq2x54h95t0j
+title: Project Structure
+desc: ''
+updated: 1649013206675
+created: 1649013206675
+stub: false
+isDir: false
+---
 ## Files
 
 | Name               | Description                      | Links                                                                                                        |

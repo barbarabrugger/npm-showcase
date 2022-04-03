@@ -1,4 +1,12 @@
-# Dendron
+---
+id: k08pcudz0wxte08kot3ocbf
+title: Dendron
+desc: ''
+updated: 1649013206678
+created: 1649013206678
+stub: false
+isDir: false
+---
 
 > Dendron is a tool for creating and managing a codebase of documents.
 
@@ -8,7 +16,11 @@
 
 Dendron provides a VS Code extension. After the installation, a tutorial is provided to explain the basic usage.
 
-![](2022-04-03-20-33-13.png)
+![](/assets/2022-04-03-20-33-13-00vxo7ybhjav.png)
+
+## Dendron CLI
+
+`npm install @dendronhq/dendron-cli@latest`
 
 ## Migrate from OneNote to Dendron
 

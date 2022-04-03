@@ -1,4 +1,12 @@
-# Azure CLI
+---
+id: 9m6axvjqvpb213jzurqf88s
+title: Azure CLI
+desc: ''
+updated: 1649013206678
+created: 1649013206678
+stub: false
+isDir: false
+---
 
 [Instructions](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 [Reference](https://docs.microsoft.com/en-us/cli/azure/service-page/list%20a%20-%20z?view=azure-cli-latest)

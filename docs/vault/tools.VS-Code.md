@@ -1,4 +1,12 @@
-# VS Code - Good to know
+---
+id: 69kpj91a3fvcoehht0puo0m
+title: VS-Code
+desc: ''
+updated: 1649013206679
+created: 1649013206679
+stub: false
+isDir: false
+---
 
 [Visual Studio Code](https://code.visualstudio.com/docs)
 

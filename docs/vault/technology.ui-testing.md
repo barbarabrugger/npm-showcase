@@ -1,5 +1,12 @@
-# UI Testing
-
+---
+id: 0m843mwyu31r0njyveayt9c
+title: UI Testing
+desc: ''
+updated: 1649013206675
+created: 1649013206675
+stub: false
+isDir: false
+---
 [Playwright](https://playwright.dev/)
 
 End-to-End testing for modern web apps.

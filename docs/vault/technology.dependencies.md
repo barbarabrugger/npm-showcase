@@ -1,5 +1,12 @@
-# Dependencies
-
+---
+id: 7z6b8saiwsd14egeyrzxsuf
+title: Dependencies
+desc: ''
+updated: 1649013206673
+created: 1649013206673
+stub: false
+isDir: false
+---
 ## buntstift
 
 Makes the CLI colorful.
