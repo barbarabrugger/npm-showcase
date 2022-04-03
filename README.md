@@ -21,8 +21,8 @@ Other topics to be covered:
 - The whole UI topic (React, ...)
 - ...
 
-Dependencies used in this project are documented in [dependencies](docs/vault/technology/dependencies).
+Dependencies used in this project are documented in [dependencies](/npm-showcase/docs/vault/technology/dependencies).
 
 ## Documentation
 
-There are some thoughts and documentation to various topics in the /docs subfolder. I recommend to start at [Philosophy](/docs/vault/philosophy) and then move on to the other topics.
+There are some thoughts and documentation to various topics in the /docs subfolder. I recommend to start at [Philosophy](/npm-showcase/docs/vault/philosophy) and then move on to the other topics.
